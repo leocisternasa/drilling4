@@ -1,0 +1,43 @@
+.origin-line {
+  border-left: 2px solid grey;
+  margin-top: 40px;
+  position: relative;
+  margin-left: 15%;
+  list-style: none;
+}
+.line-circle {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  background: yellow;
+  border-radius: 50%;
+  left: -10px;
+  margin-top: 15px;
+}
+.numero-personajes {
+  position: absolute;
+  left: -60px;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.card {
+  width: 25vw;
+}
+.circle-red {
+  height: 25px;
+  width: 25px;
+  background: rgb(235, 53, 53);
+  border-radius: 50%;
+}
+.circle-green {
+  height: 25px;
+  width: 25px;
+  background: rgb(53, 235, 126);
+  border-radius: 50%;
+}
+.circle-ligth {
+  height: 25px;
+  width: 25px;
+  background: rgb(53, 217, 235);
+  border-radius: 50%;
+}
